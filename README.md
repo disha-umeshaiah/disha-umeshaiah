@@ -1,16 +1,15 @@
-## Hi there 👋
+Disha Umeshaiah
 
-<!--
-**disha-umeshaiah/disha-umeshaiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year CS undergrad. I bridge the gap between creative UI/UX engineering and solid front-end architecture. I build optimized, utility-driven software that pairs clean, modular code with high-fidelity, interactive aesthetics.
 
-Here are some ideas to get you started:
+💻 Technical Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+◽️Front-End Architecture: Engineering responsive, interactive web applications using standard vanilla stacks (HTML5, CSS3, JavaScript ES6+). Focus on DOM manipulation, fluid SVG rendering, and component lifecycle efficiency.
+
+◽️API Integration & State: Experienced in asynchronous JavaScript (Async/Await, Promises) to fetch, parse, and seamlessly integrate third-party RESTful APIs with real-time state updates.
+
+◽️Performance & Interaction: Optimizing web-native performance to handle complex visual feedback, structural layouts, and dynamic theme rendering without layout thrashing.
+
+◽️Environment & Fuel: Git/GitHub version control, rapid debugging cycles, and terminal-driven workflows. Powered by iced lattes and late-night compilation runs.
+
+Check out dishaumeshaiah.com
